@@ -2,7 +2,7 @@
 
 BlockMint (MiniBlockchain) is a complete full-stack blockchain sandbox environment. It is designed to make the fundamental mechanics of block-mining, key-pair cryptographic signing, and ledger consensus highly visual, elegant, and interactive.
 
-![BlockMint UI](frontend/public/favicon.svg) *(Note: Imagine a sleek Vantablack glassmorphism UI here)*
+
 
 ##  Features
 
