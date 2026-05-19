@@ -16,6 +16,7 @@ public class BlockchainService {
     private List<Transaction> pendingTransactions;
     private Wallet minerWallet;
     private int difficulty = 5;
+    //The SYSTEM transaction represents the mining reward mechanism used to incentivize miners in Proof-of-Work blockchains.Because there is no central authority in a decentralized system to so it provide 50 bitcoins automatically at every transaction
     private float miningReward = 50f;
     private final String CHAIN_FILE = "blockchain_data.json";
     private final ObjectMapper objectMapper = new ObjectMapper();
