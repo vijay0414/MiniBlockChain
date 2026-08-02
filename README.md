@@ -37,8 +37,6 @@ BlockMint (MiniBlockchain) is a complete full-stack blockchain sandbox environme
 - Vite
 - Tailwind CSS v4
 - Axios
-- Lucide React (Icons)
-- Framer Motion (Animations)
 
 ---
 
